@@ -3,15 +3,22 @@
 📊 A Power BI dashboard project simulating real-world financial oversight across City of Toronto budgets from 2022 to 2024. Focused on trend detection, variance analysis, and sub-project investment monitoring to support public finance decision-making.
 
 ---
+
 ## 📑 Table of Contents
 
-- [Project Objective](#project-objective)
-- [Business Problem](#business-problem)
-- [Analytical Approach](#analytical-approach)
-- [Power BI Dashboard Overview](#power-bi-dashboard-overview)
-- [Data Source](#data-source)
-- [Key Insights & Outcomes](#key-insights--outcomes)
-- [How I’d Explain It in an Interview](#how-id-explain-it-in-an-interview)
+- [🔍 Project Objective](#-project-objective)
+- [🗂 Data Source](#-data-source)
+- [💡 Business Challenge](#-business-challenge)
+- [🧠 Key Insights Uncovered](#-key-insights-uncovered)
+- [📁 Files](#-files)
+- [📌 Features & Visuals](#-features--visuals)
+- [📊 Sample Visuals](#-sample-visuals)
+- [🛠 Tools Used](#-tools-used)
+- [🧠 What I Learned](#-what-i-learned)
+- [🗣 How I’d Explain It in an Interview](#-how-id-explain-it-in-an-interview)
+- [🔗 Related Projects](#-related-projects)
+- [✅ Status](#-status)
+
 ---
 
 ## 🔍 Project Objective
@@ -23,6 +30,8 @@ The City of Toronto manages billions in capital and operating budgets across hun
 - How spending patterns shift between **funding types and sub-projects**
 
 **This project models a solution**: a clean Power BI dashboard designed to provide **stakeholders with budget transparency**, **growth trends**, and **targeted insights** for better fiscal management.
+
+---
 
 ## 🗂 Data Source
 
@@ -79,6 +88,7 @@ As a data analyst, I approached this like an internal finance team would:
 - ✅ **Highlight of Cuts vs Increases**
 
 ---
+
 ## 📊 Sample Visuals
 
 Here are a few screenshots from the final Power BI dashboard:
