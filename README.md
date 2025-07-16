@@ -3,6 +3,16 @@
 📊 A Power BI dashboard project simulating real-world financial oversight across City of Toronto budgets from 2022 to 2024. Focused on trend detection, variance analysis, and sub-project investment monitoring to support public finance decision-making.
 
 ---
+## 📑 Table of Contents
+
+- [Project Objective](#project-objective)
+- [Business Problem](#business-problem)
+- [Analytical Approach](#analytical-approach)
+- [Power BI Dashboard Overview](#power-bi-dashboard-overview)
+- [Data Source](#data-source)
+- [Key Insights & Outcomes](#key-insights--outcomes)
+- [How I’d Explain It in an Interview](#how-id-explain-it-in-an-interview)
+---
 
 ## 🔍 Project Objective
 
